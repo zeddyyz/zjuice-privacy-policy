@@ -1,6 +1,6 @@
 # Privacy Policy for zjuice Mobile App
 
-Effective Date: May 19, 2023
+# Effective Date: May 19, 2023
 
 This Privacy Policy governs the manner in which zjuice ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users ("User," "you," or "your") of the zjuice mobile application ("App"). This Privacy Policy applies to the App and all products and services offered by zjuice.
 
@@ -38,7 +38,7 @@ This Privacy Policy governs the manner in which zjuice ("we," "us," or "our") co
 
 7. Contact Us
 
-7.1. If you have any questions about this Privacy Policy or the practices of the zjuice mobile application, please contact us at zedddcorp@gmail.com.
+7.1. If you have any questions about this Privacy Policy or the practices of the zjuice mobile application, please contact us at zedddcorp@gmail.com. Please provide your contact information and a detailed description of your request or concern, and we will strive to address it promptly.
 
 8. Children's Privacy
 
@@ -67,14 +67,6 @@ This Privacy Policy governs the manner in which zjuice ("we," "us," or "our") co
 14. Language
 
 14.1. This Privacy Policy is provided in the English language, and any translations of this Privacy Policy are provided for convenience only. In the event of any discrepancy between the English version and any translated version, the English version shall prevail.
-
-15. Contact Us
-
-15.1. If you have any questions, concerns, or suggestions regarding this Privacy Policy or our privacy practices, please contact us at:
-
-Email: zedddcorp@gmail.com
-
-Please provide your contact information and a detailed description of your request or concern, and we will strive to address it promptly.
 
 By using the zjuice mobile application, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the App. Your continued use of the App following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
