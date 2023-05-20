@@ -1,6 +1,6 @@
 # Privacy Policy for zjuice Mobile App
 
-# Effective Date: May 19, 2023
+Effective Date: May 19, 2023
 
 This Privacy Policy governs the manner in which zjuice ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users ("User," "you," or "your") of the zjuice mobile application ("App"). This Privacy Policy applies to the App and all products and services offered by zjuice.
 
@@ -42,7 +42,7 @@ This Privacy Policy governs the manner in which zjuice ("we," "us," or "our") co
 
 8. Children's Privacy
 
-8.1. zjuice is intended for individuals who are 13 years of age or older. We do not knowingly collect personal information from children under the age of 13. If you believe that we may have collected personal information from a child under the age of 13, please contact us at zedddcorp@gmail.com, and we will take steps to remove that information from our databases.
+8.1. zjuice is intended for individuals who are 21 years of age or older. We do not knowingly collect personal information from children under the age of 21. If you believe that we may have collected personal information from a child under the age of 21, please contact us at zedddcorp@gmail.com, and we will take steps to remove that information from our databases.
 
 9. Compliance with Applicable Laws
 
