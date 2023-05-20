@@ -1,4 +1,4 @@
-Privacy Policy for zjuice Mobile App
+# Privacy Policy for zjuice Mobile App
 
 Effective Date: May 19, 2023
 
